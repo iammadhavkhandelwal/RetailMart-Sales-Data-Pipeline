@@ -1,0 +1,16 @@
+product_id,product_name,category,price
+101,Laptop,Electronics,55000
+102,Mobile,Electronics,25000
+103,Headphones,Accessories,2000
+104,Chair,Furniture,3500
+105,Table,Furniture,6000
+106,Notebook,Stationery,100
+107,Pen,Stationery,20
+108,Bag,Accessories,1200
+109,Keyboard,Electronics,1500
+110,Mouse,Electronics,800
+111,Water Bottle,Home Essentials,850
+112,School Bag,Accessories,3500
+113,Smart TV,Electronics,45000
+114,Printer,Electronics,12000
+115,Desk Lamp,Home Essentials,1500

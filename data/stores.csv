@@ -1,0 +1,16 @@
+store_id,store_name,city,region
+1,RetailMart Jaipur,Jaipur,North
+2,RetailMart Delhi,Delhi,North
+3,RetailMart Mumbai,Mumbai,West
+4,RetailMart Pune,Pune,West
+5,RetailMart Bengaluru,Bengaluru,South
+6,RetailMart Chennai,Chennai,South
+7,RetailMart Kolkata,Kolkata,East
+8,RetailMart Ahmedabad,Ahmedabad,West
+9,RetailMart Hyderabad,Hyderabad,South
+10,RetailMart Lucknow,Lucknow,North
+11,RetailMart Indore,Indore,Central
+12,RetailMart Bhopal,Bhopal,Central
+13,RetailMart Chandigarh,Chandigarh,North
+14,RetailMart Surat,Surat,West
+15,RetailMart Patna,Patna,East
