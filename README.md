@@ -546,10 +546,7 @@ The project generates the following business reports:
 ## Project Links
 
 GitHub Repository Link:
-Paste your GitHub repository link here
-
-Project Drive / ZIP Link:
-Paste your Drive or ZIP file link here
+(https://github.com/iammadhavkhandelwal/RetailMart-Sales-Data-Pipeline.git)
 
 ## What I Learned
 
